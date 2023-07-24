@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi Im Pourya Zardosht👋🏻</h1>
 
 
