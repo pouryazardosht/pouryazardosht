@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 text-align="center">Hi Im Pourya Zardosht👋🏻</h1>
+<h1 align="center">Hi Im Pourya Zardosht👋🏻</h1>
 
 
 ## 🌐 Socials:
