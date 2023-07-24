@@ -1,5 +1,3 @@
-# pouryazarosht
-My personal repository.
 <h1 align="center">Hi 👋, I'm Pourya Zardosht</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
