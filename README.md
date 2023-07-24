@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React
+<h1 text-align="center">Hi Im Pourya Zardosht👋🏻</h1>
 
 
 ## 🌐 Socials:
