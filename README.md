@@ -16,7 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=pouryazardosht&icon=0&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/pouryazardosht) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/pouryazardosht) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
